@@ -1,5 +1,6 @@
 # emloyee dashboard using Power BI
 
 Tools used:
-**Power BI**
-**Microsoft**
+* **Power BI**
+* **Microsoft**
+Edited on Github
