@@ -3,5 +3,3 @@
 Tools used:
 **Power BI**
 **Microsoft**
-
-Edited locally.
