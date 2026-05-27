@@ -6,4 +6,8 @@ Tools used:
 
 Edited on Github
 Edited locally
+<<<<<<< HEAD
 Data
+=======
+Dataset
+>>>>>>> cff48457bddea5df04eacca468e6ec80544b22c3
